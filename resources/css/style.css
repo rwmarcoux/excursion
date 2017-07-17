@@ -20,4 +20,9 @@ h2{
 
 .gray {color: gray; }
 
+#tents {
+    width: 75%;
+    height: auto;
+}
+
 #copy {text-align: right;}
